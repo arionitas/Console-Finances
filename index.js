@@ -87,7 +87,8 @@ var finances = [           // Arrays composing of Date and Profit/Losses //
   ['Feb-2017', 671099],
 ];
 
-console.log(finances)
+
+console.log('Financial Analysis')
 
 
 const startDate = new Date(2010, 1);
@@ -185,6 +186,7 @@ const data = [
   ['Jan-2017', 138230],
   ['Feb-2017', 671099],
 ];
+
 
 const earningsArray = data.map((el) => el[1]);
 
