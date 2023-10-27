@@ -50,6 +50,8 @@ Creating code for analysing the financial records of a company, using javaScript
 
 ## Deployed Project Link
 
+https://arionitas.github.io/Console-Finances/
+
 
 ## Usage 
 
